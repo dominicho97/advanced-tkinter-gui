@@ -3,7 +3,7 @@
 
 Multithreaded client server GUI with login system, charts and charts filtering and message communication between clients and server
 
-Video available :https://github.com/dominicho97/advanced-tkinter-gui/blob/main/tkinter_gui_video.mkv
+Video available: https://youtu.be/Ruhq72MEITs
 
 Multiple clients can connect to the same server/(admin) 
 
