@@ -2,9 +2,9 @@
 
 
 Multithreaded client server GUI with login system, charts and charts filtering and message communication between clients and server.
-
-<b>Video available: https://youtu.be/Ruhq72MEITs</b>
 <br> Made the GUI with python Tkinter, kaggle data stored with excel and SQL, data communication with pickle files. <br>
+<b>Video available: https://youtu.be/Ruhq72MEITs</b>
+
 
 ---
 Multiple clients can connect to the same server/(admin) 
