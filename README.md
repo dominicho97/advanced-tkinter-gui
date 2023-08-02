@@ -3,8 +3,10 @@
 
 Multithreaded client server GUI with login system, charts and charts filtering and message communication between clients and server
 
-Video available: https://youtu.be/Ruhq72MEITs
+<b>Video available: https://youtu.be/Ruhq72MEITs</b>
+<br><br>
 
+---
 Multiple clients can connect to the same server/(admin) 
 
 The clients need to log in, when logged in they can request data from the server visualised in a chart, 
